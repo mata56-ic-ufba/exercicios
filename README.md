@@ -1,2 +1,4 @@
-# exercicios
-Exercício E3
+# Exercícios
+
+
+* Exercício E3
